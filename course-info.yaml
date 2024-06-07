@@ -1,0 +1,30 @@
+type: marketplace
+title: 17. Collections
+language: English
+summary: |
+  This is an introductory course about Collections in Java.
+  content:
+  - 01. Collections
+  - 02. The Collections Framework
+  - 03. ArrayList
+  - 04. The List interface
+  - 05. LinkedList vs. ArrayList
+  - 06. The Set interface
+  - 07. The Map interface
+  - 08. Iterator and Iterable
+programming_language: Java
+programming_language_version: 17
+content:
+  - 01. Collections
+  - 02. The Collections Framework
+  - 03. ArrayList
+  - 04. The List interface
+  - 05. LinkedList vs. ArrayList
+  - 06. The Set interface
+  - 07. The Map interface
+  - 08. Iterator and Iterable
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_17
+vendor:
+  name: Alexandru Umanet

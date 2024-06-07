@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01. Collections/Accessing element of a collection" />
+            <option value="$PROJECT_DIR$/01. Collections/Initialize a collection" />
+            <option value="$PROJECT_DIR$/01. Collections/Processing a sequence of data" />
+            <option value="$PROJECT_DIR$/01. Collections/Resizable structure" />
+            <option value="$PROJECT_DIR$/01. Collections/The one suitable description" />
+            <option value="$PROJECT_DIR$/01. Collections/The relations between Java and CS" />
+            <option value="$PROJECT_DIR$/01. Collections/Theory" />
+            <option value="$PROJECT_DIR$/01. Collections/Understanding code with collections" />
+            <option value="$PROJECT_DIR$/01. Collections/Unsuitable types" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/A package" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Blacklist" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Collection interfaces" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Collections properties" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Count and display element frequencies" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Creating instances" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Extra methods" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Inheritance of standard collections" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Root interfaces" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Sorting the digits of an integer in ascending order" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Squaring numbers" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Supported collections" />
+            <option value="$PROJECT_DIR$/02. The Collections Framework/Theory" />
+            <option value="$PROJECT_DIR$/03. ArrayList/Adding items" />
+            <option value="$PROJECT_DIR$/03. ArrayList/Concat positive numbers" />
+            <option value="$PROJECT_DIR$/03. ArrayList/Creating list" />
+            <option value="$PROJECT_DIR$/03. ArrayList/Find the nearest number" />
+            <option value="$PROJECT_DIR$/03. ArrayList/How to get an element by the index" />
+            <option value="$PROJECT_DIR$/03. ArrayList/Output the lists elements" />
+            <option value="$PROJECT_DIR$/03. ArrayList/Powers of indexes" />
+            <option value="$PROJECT_DIR$/03. ArrayList/Removing items" />
+            <option value="$PROJECT_DIR$/03. ArrayList/The behavior of methods" />
+            <option value="$PROJECT_DIR$/03. ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/03. ArrayList/What ArrayList can store" />
+            <option value="$PROJECT_DIR$/04. The List interface/Backward indexes" />
+            <option value="$PROJECT_DIR$/04. The List interface/Companies" />
+            <option value="$PROJECT_DIR$/04. The List interface/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/04. The List interface/Equal lists" />
+            <option value="$PROJECT_DIR$/04. The List interface/Filtering the list" />
+            <option value="$PROJECT_DIR$/04. The List interface/Greek letters" />
+            <option value="$PROJECT_DIR$/04. The List interface/Implementations" />
+            <option value="$PROJECT_DIR$/04. The List interface/Mutable lists" />
+            <option value="$PROJECT_DIR$/04. The List interface/Replacing ArrayList with LinkedList" />
+            <option value="$PROJECT_DIR$/04. The List interface/Results of operations" />
+            <option value="$PROJECT_DIR$/04. The List interface/Select correct assignments" />
+            <option value="$PROJECT_DIR$/04. The List interface/Setting a new name" />
+            <option value="$PROJECT_DIR$/04. The List interface/Similarities between lists and arrays" />
+            <option value="$PROJECT_DIR$/04. The List interface/Split a list into sublists" />
+            <option value="$PROJECT_DIR$/04. The List interface/The longest string in the list" />
+            <option value="$PROJECT_DIR$/04. The List interface/Theory" />
+            <option value="$PROJECT_DIR$/05. LinkedList vs. ArrayList/Fast for ArrayList" />
+            <option value="$PROJECT_DIR$/05. LinkedList vs. ArrayList/Fast for LinkedList" />
+            <option value="$PROJECT_DIR$/05. LinkedList vs. ArrayList/Remove the same" />
+            <option value="$PROJECT_DIR$/05. LinkedList vs. ArrayList/The big merge" />
+            <option value="$PROJECT_DIR$/05. LinkedList vs. ArrayList/The fair exchange" />
+            <option value="$PROJECT_DIR$/05. LinkedList vs. ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/05. LinkedList vs. ArrayList/Transfer both lists" />
+            <option value="$PROJECT_DIR$/05. LinkedList vs. ArrayList/What to think about" />
+            <option value="$PROJECT_DIR$/06. The Set interface/A subset of sorted set" />
+            <option value="$PROJECT_DIR$/06. The Set interface/Comparing sets" />
+            <option value="$PROJECT_DIR$/06. The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/06. The Set interface/Elements of a set" />
+            <option value="$PROJECT_DIR$/06. The Set interface/Essentials" />
+            <option value="$PROJECT_DIR$/06. The Set interface/Implementations" />
+            <option value="$PROJECT_DIR$/06. The Set interface/Output elements" />
+            <option value="$PROJECT_DIR$/06. The Set interface/Removing elements" />
+            <option value="$PROJECT_DIR$/06. The Set interface/Spell checker" />
+            <option value="$PROJECT_DIR$/06. The Set interface/Strict superset" />
+            <option value="$PROJECT_DIR$/06. The Set interface/Symmetric difference" />
+            <option value="$PROJECT_DIR$/06. The Set interface/The most suitable set" />
+            <option value="$PROJECT_DIR$/06. The Set interface/The set of programming languages" />
+            <option value="$PROJECT_DIR$/06. The Set interface/The size of a set" />
+            <option value="$PROJECT_DIR$/06. The Set interface/The storage order" />
+            <option value="$PROJECT_DIR$/06. The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/06. The Set interface/TreeSet storage order" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Basics of Maps" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Counting words" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Creating a map" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Determine values of variables" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Displaying pairs" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Existing implementations" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Getting submaps" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Kidnapper of Ice cream" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Modifying a map" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Sherlock Holmes and removing of characters" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Sherlock Holmes and the mystery of anagrams" />
+            <option value="$PROJECT_DIR$/07. The Map interface/The property of TreeMap" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Theory" />
+            <option value="$PROJECT_DIR$/07. The Map interface/Tricky sub-maps" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/Determine the order" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/Existing iterators" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/Finding the max number" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/Hip-Hop" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/Interfaces with iterator" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/Iterators and for-each" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/No J" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/Remove elements of a collection" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/Reversed list" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/Theory" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/What is an Iterable" />
+            <option value="$PROJECT_DIR$/08. Iterator and Iterable/What is an Iterator" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
